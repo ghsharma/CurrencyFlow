@@ -49,4 +49,4 @@ Currency exchange rates are dynamically fetched from a reliable API, ensuring th
 ## Author
 
 - Govind Harsh Sharma
-- GitHub: [your-username](https://github.com/ghsharma)
+- GitHub: [ghsharma](https://github.com/ghsharma)
